@@ -1,0 +1,56 @@
+############################
+# Unity
+############################
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+############################
+# Visual Studio / Rider
+############################
+
+.vs/
+*.csproj
+*.sln
+*.user
+*.suo
+*.userprefs
+*.pidb
+*.booproj
+
+############################
+# Executables
+############################
+
+*.exe
+*.dll
+*.pdb
+
+############################
+# OS generated
+############################
+
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+############################
+# IDE config
+############################
+
+.vscode/
+.idea/
+
+############################
+# Temporary / cache files
+############################
+
+*.log
+*.tmp
+*.bak
+*.swp
